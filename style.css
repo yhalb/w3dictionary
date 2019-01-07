@@ -10,6 +10,7 @@ BODY {
 }
 figure {
     margin-top: 1rem;
+    margin-bottom: 0;
 }
 
 A:link {
