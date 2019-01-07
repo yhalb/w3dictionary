@@ -8,6 +8,9 @@ BODY {
 .card-body {
     background-color: #000000;
 }
+figure {
+    margin-top: 1rem;
+}
 
 A:link {
 	color: white;
