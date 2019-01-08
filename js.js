@@ -10,6 +10,7 @@
             $link.attr('title', $entry.find('.card-header').text())
             $link.attr('data-trigger', 'hover');
             $link.attr('data-html', 'true');
+            $link.attr('data-placement', 'auto');
 
         }
     });
