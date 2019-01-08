@@ -36,3 +36,8 @@ A:hover {
   outline: none;
   background-color: #000000
 }
+
+.popover-header {
+    background-color: white;
+    color: black;
+}
