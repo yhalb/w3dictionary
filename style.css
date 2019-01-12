@@ -46,3 +46,7 @@ A:hover {
     vertical-align: middle;
 	border-top: 1px solid #0c0c0c;
 }
+
+ul {
+	margin-bottom: 0rem;
+}
